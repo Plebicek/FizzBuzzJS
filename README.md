@@ -1,2 +1,2 @@
-Look!! I made a called FizzBuzz in JS.
-The game doesnt have sytel even html for now but it will be added later. "maybe" :D
+Look!! I made a game called FizzBuzz in JS.
+The game doesnt have styling jet even html for now but it will be added later. "maybe" :D
